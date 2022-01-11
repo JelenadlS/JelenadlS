@@ -11,9 +11,7 @@
 
 <br>
 
-Just send a message in case there are any questions.
-<br>
-:mailbox: jelena_de_la_sauce@web.de
+
 <br><br>
 Cheers, <br>
 Jelena
