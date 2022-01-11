@@ -1,4 +1,4 @@
-# Hi there :wave: I'am Jelena 
+# <div align="center"> Hi there :wave: I'am Jelena </div>
 
 :seedling: I am currently doing a boothcamp for Web Development at [neuefische](https://www.neuefische.de)
 
