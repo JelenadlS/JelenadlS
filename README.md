@@ -9,6 +9,3 @@
 :house_with_garden: I am living in Hamburg <br>
 :battery: I love beeing outside, mostly to meet friends and enjoy the time to refill my battery <br>
 
-<br>
-Cheers, <br>
-Jelena
