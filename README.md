@@ -1,11 +1,8 @@
-<h1> Jelena de la Sauce </h1>
+# Hi there :wave: I'am Jelena 
 
-<b> Dear GitHub community, 
-  <br>
- <p> Welcome to my profile.</b>
-  <br> Find below some information about me:</p>
+:seedling: I am currently doing a boothcamp for Web Development at [neuefische](https://www.neuefische.de)
 
-:seedling: I am currently doing a boothcamp for Web Development at <a href="https://www.neuefische.de/">neuefische</a> <br>
-:house_with_garden: I am living in Hamburg <br>
+:house_with_garden: I am living in Hamburg 
+
 :battery: I love beeing outside, mostly to meet friends and enjoy the time to refill my battery <br>
 
