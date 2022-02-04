@@ -1,7 +1,7 @@
 # <div align="center"> Hi there :wave: I'am Jelena </div>
 
 
-:seedling: I am currently doing a boothcamp for Web Development at [neuefische](https://www.neuefische.de)
+:seedling: I am currently doing a bootcamp for Web Development at [neuefische](https://www.neuefische.de)
 
 :house_with_garden: I am living in Hamburg, Germany
 
